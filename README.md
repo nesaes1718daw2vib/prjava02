@@ -18,7 +18,8 @@ Per veure l'historial:
 $git log
 
 10.
-Per fusionar branques: Ens situem a una de les branques que volem fusionar i mencionem a laltre a la comanda.
+Per fusionar branques:
+Ens situem a una de les branques que volem fusionar i mencionem a l'altre a la comanda.
 $sudo git merge branca00
 
 14.
